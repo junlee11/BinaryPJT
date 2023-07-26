@@ -1,0 +1,8 @@
+C:\Users\ijung\VS CSharp Project\BinaryPJT\BinaryPJT\bin\Debug\BinaryPJT.exe.config
+C:\Users\ijung\VS CSharp Project\BinaryPJT\BinaryPJT\bin\Debug\BinaryPJT.exe
+C:\Users\ijung\VS CSharp Project\BinaryPJT\BinaryPJT\bin\Debug\BinaryPJT.pdb
+C:\Users\ijung\VS CSharp Project\BinaryPJT\BinaryPJT\obj\Debug\BinaryPJT.csproj.AssemblyReference.cache
+C:\Users\ijung\VS CSharp Project\BinaryPJT\BinaryPJT\obj\Debug\BinaryPJT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ijung\VS CSharp Project\BinaryPJT\BinaryPJT\obj\Debug\BinaryPJT.csproj.CoreCompileInputs.cache
+C:\Users\ijung\VS CSharp Project\BinaryPJT\BinaryPJT\obj\Debug\BinaryPJT.exe
+C:\Users\ijung\VS CSharp Project\BinaryPJT\BinaryPJT\obj\Debug\BinaryPJT.pdb
